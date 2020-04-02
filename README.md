@@ -16,11 +16,11 @@
 
 ## 앱 이미지
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00810e69-2b45-4345-82c7-a1fc23dfbd35/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00810e69-2b45-4345-82c7-a1fc23dfbd35/Untitled.png)
+![ImageLabeling_Firebase/Untitled.png](ImageLabeling_Firebase/Untitled.png)
 
 <네트워크 환경에서의 Image Labeling>
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/198be01d-cf79-4063-8df5-7df991306aaa/KakaoTalk_20200402_142653046.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/198be01d-cf79-4063-8df5-7df991306aaa/KakaoTalk_20200402_142653046.png)
+![ImageLabeling_Firebase/KakaoTalk_20200402_142653046.png](ImageLabeling_Firebase/KakaoTalk_20200402_142653046.png)
 
 <오프라인 환경에서의 Image Labeling>
 
