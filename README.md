@@ -14,4 +14,19 @@
     - Google Cloud Vision API
     - 기기별 Image Labeling API
 
+## 앱 이미지
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00810e69-2b45-4345-82c7-a1fc23dfbd35/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/00810e69-2b45-4345-82c7-a1fc23dfbd35/Untitled.png)
+
+<네트워크 환경에서의 Image Labeling>
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/198be01d-cf79-4063-8df5-7df991306aaa/KakaoTalk_20200402_142653046.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/198be01d-cf79-4063-8df5-7df991306aaa/KakaoTalk_20200402_142653046.png)
+
+<오프라인 환경에서의 Image Labeling>
+
 ---
+
+## 보완할 점 & 추가 기능
+
+- Firebase 무료 요금제 사용중이라, Google Cloud Platform 기능 사용이 불가해 네트워크 환경에서의 Image Labeling 어려움 → 차후에 업그레이드 후 확인할 것
+- 로컬 이미지 로딩하여 Image Labeling 기능 추가
